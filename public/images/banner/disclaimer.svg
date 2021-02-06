@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="disclaimer" width="28.556" height="26.466" viewBox="0 0 28.556 26.466">
+    <defs>
+        <style>
+            .cls-2{fill:#252741}
+        </style>
+    </defs>
+    <g id="Grupo_2728">
+        <path id="Trazado_1446" fill="#ffdb43" d="M38.242 50.613a2.612 2.612 0 0 1-2.3 3.854h-23.33a2.612 2.612 0 0 1-2.3-3.854L21.98 29.37a2.612 2.612 0 0 1 4.6 0z" transform="translate(-10 -28)"/>
+        <g id="Grupo_2727" transform="translate(12.537 7.313)">
+            <path id="Trazado_1447" d="M226 364h3.482v3.482H226z" class="cls-2" transform="translate(-226 -351.811)"/>
+            <path id="Trazado_1448" d="M226 154h3.482v8.706H226z" class="cls-2" transform="translate(-226 -154)"/>
+        </g>
+    </g>
+</svg>

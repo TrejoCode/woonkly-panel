@@ -24,7 +24,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
@@ -37,7 +37,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
@@ -50,7 +50,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
@@ -63,7 +63,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
@@ -76,7 +76,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
@@ -89,7 +89,7 @@ const AsideFollowing = ({ title, value, moreText }) => {
                         <img src="/images/aside/verified.svg" alt = "Verified Icon" className="--verified" />
                     </div>
                     <div className="__name">
-                        <Link href = "/">
+                        <Link href = "/user">
                             <a className="--font-roboto font-mini text-center">
                                 Luis Mendez
                             </a>
